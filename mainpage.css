@@ -1,0 +1,16 @@
+.heading{
+    color: white;
+}
+.Bird{
+    background-color: white;
+    width: 10%;
+    border-radius: 75px;
+}
+.Shoes{
+    background-color: white;
+    width: 10%;
+    border-radius: 75px;
+}
+body{
+    background-size: cover;
+}
